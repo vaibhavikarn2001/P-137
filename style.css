@@ -1,0 +1,31 @@
+body{
+    background-size:inherit;
+}
+.heading{
+    width:100%;
+    font-family: 'Meow Script', cursive;
+    font-size:55px;
+    font-weight:bold;
+    
+    background-image:linear-gradient(to right,darkblue,skyblue);
+
+}
+p,label{
+    font-size:22px;
+    font-family: 'Red Hat Display', sans-serif;
+}
+label{
+    color:black;
+    background-color:white;
+    font-weight: bold;
+
+}
+canvas{
+    border:2px solid white;
+    box-shadow:5px 18px grey;
+    margin-top: 30%;
+}
+.btn-success{
+    margin-top: 50px;;
+
+}
